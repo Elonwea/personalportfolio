@@ -31,9 +31,9 @@ a {
 .jumbotron {
     display: flex;
     align-items: center;
-    background-image: url(\resources\images\daniel-alvasd-NItozEcUPrw-unsplash.jpg);
+    background-color: #382729;
     background-size: cover;
-    color: #ffffff;
+    color: #fff;
     height: 400px;
 }
 
@@ -41,12 +41,12 @@ a {
     font-size: 60px;
     font-weight: 700;
     margin: 0;
-    color: #fff;
+    color: aqua;
 }
 
 .jumbotron h3 {
     margin: 0 0 20px;
-    color: #fff;
+    color: aquamarine;
 }
 
 section .row img {
